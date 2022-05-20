@@ -4,5 +4,6 @@ if hungry=="yes":
 	print("what about piza")
 	print("how about burger?")
 else:
-	task=inpu("are you done?"
-	print("the do your homework")
+   task=inpu("are you done?")
+   if task=="yes":
+	print("then do your homework")
